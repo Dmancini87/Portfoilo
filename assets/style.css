@@ -1,0 +1,38 @@
+:root {
+--orange: orangered;
+}
+
+header{ 
+    background-color: var(--orange);
+}
+body {
+
+}
+
+.nav {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    color: white;
+}
+#about {
+display: flex;
+flex-wrap: wrap;
+}
+
+#about-pic{
+    max-width: 200px;
+    max-height: 300px;
+}
+
+#about-para{
+
+}
+
+
+
+
+
+@media screen {
+    
+}
