@@ -1,5 +1,6 @@
 :root {
 --orange: orangered;
+background-color: rgb(181, 143, 69);
 }
 
 header{ 
@@ -18,21 +19,72 @@ body {
 #about {
 display: flex;
 flex-wrap: wrap;
+justify-content: center;
 }
 
-#about-pic{
+#about-pic {
     max-width: 200px;
     max-height: 300px;
 }
 
-#about-para{
+#about-para {
 
 }
 
+#work {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+
+h2 {
+    background-color: var(--orange);
+}
+
+#box {
+    min-width: 300px;
+    background-color: var(--main-color);
+    margin: 10px;
+    max-width: 300px;
+    border: 10px solid tan;
+    max-height:300px;
+}
+#box-2 {
+    min-width: 200px;
+    background-color: var(--main-color);
+    margin: 10px;
+    max-width: 200px;
+    border: 10px solid tan;
+    max-height:200px;
+}
 
 
+#box:hover{
 
+    background-color: yellow;
+    max-width: 500px;
+    border: 10px dashed tan;
+}
 
-@media screen {
-    
+#box-2:hover{
+
+    background-color: yellow;
+    max-width: 500px;
+    border: 10px dashed tan;
+}
+
+#work-pic-1{
+max-width: 300px;
+max-height: 300px;
+}
+
+#work-pic-2{ 
+    max-width: 200px;
+    max-height: 200px;
+
+}
+
+#contact {
+    display: flex;
+    flex-wrap: wrap;
 }
