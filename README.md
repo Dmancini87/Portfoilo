@@ -5,7 +5,8 @@ The Second weekly project for the UNH coding bootcamp. This also doubles as my P
 <h2>Install</h2>
 Open the website in a browser, and view the code and css style page
 https://dmancini87.github.io/Portfoilo/
-![image](https://user-images.githubusercontent.com/110498734/195445046-5f7588c2-7ece-4c6e-9f5a-98b11d1fd3bd.png)
+![image](https://user-images.githubusercontent.com/110498734/195446189-f9cd44cc-ac00-413b-b7e7-ab93f65a0805.png)
+
 
 
 <h2>Usage</h2>
