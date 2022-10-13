@@ -6,7 +6,7 @@ The Second weekly project for the UNH coding bootcamp. This also doubles as my P
 Open the website in a browser, and view the code and css style page
 https://dmancini87.github.io/Portfoilo/
 
-![Alt text](/assets/portfolio.png)
+![Alt text](https://github.com/Dmancini87/Portfoilo/blob/main/assets/portfolio%20.png)
 <h2>Usage</h2>
 This project is to create my own portfoilo from scratch. This needed 3 sections; an About Me, clickble Links showing my Work, and a Contact section.
 
